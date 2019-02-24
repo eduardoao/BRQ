@@ -1,0 +1,14 @@
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.csprojAssemblyReference.cache
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.csproj.CoreCompileInputs.cache
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\bin\Debug\netcoreapp2.1\WebPocApi.deps.json
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\bin\Debug\netcoreapp2.1\WebPocApi.runtimeconfig.json
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\bin\Debug\netcoreapp2.1\WebPocApi.runtimeconfig.dev.json
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\bin\Debug\netcoreapp2.1\WebPocApi.dll
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\bin\Debug\netcoreapp2.1\WebPocApi.pdb
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.RazorAssemblyInfo.cache
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.RazorAssemblyInfo.cs
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.AssemblyInfoInputs.cache
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.AssemblyInfo.cs
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.RazorTargetAssemblyInfo.cache
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.dll
+D:\Codigos\Entrevistas\BRQ\WebPocApi\WebPocApi\obj\Debug\netcoreapp2.1\WebPocApi.pdb
